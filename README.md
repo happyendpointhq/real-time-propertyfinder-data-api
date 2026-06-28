@@ -27,8 +27,7 @@
 ## 🌐 Useful Links
 
 * 🌍 **Official Website:** [https://uaepropertyapi.com/](https://uaepropertyapi.com/)
-* 🔗 **Access API Here:** [https://rapidapi.com/happyendpoint/api/propertyfinder-uae-data](https://rapidapi.com/happyendpoint/api/propertyfinder-uae-data)
-* 📘 **Documentation:** [https://happyendpoint.com/apis/propertyfinder/docs/](https://happyendpoint.com/apis/propertyfinder/docs/)
+* 🔗 **Access API Here:** [https://rapidapi.com/happyendpoint/api/uae-real-estate-property](https://rapidapi.com/happyendpoint/api/uae-real-estate-property)
 * 🐦 **Twitter:** [https://x.com/happyendpointhq](https://x.com/happyendpointhq)
 * 📩 **Contact Email:** [happyendpointhq@gmail.com](mailto:happyendpointhq@gmail.com)
 
